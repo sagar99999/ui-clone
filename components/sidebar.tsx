@@ -1,7 +1,7 @@
 import Image from "next/image"
 
 export const Sidebar = () => {
-    return <div className="p-3 w-52">
+    return <div className="p-3 basis-52 shrink-0">
         <ul>
             <li className="mb-6">
                 <a className="flex items-center" href="">
